@@ -24,7 +24,7 @@ For your convenience, the following list gives an overview of the web API endpoi
  /v2/account | 🔑 | [`Gw2Client.WebApi.V2.Account`](../api/Gw2Sharp.WebApi.V2.Clients.AccountClient.html)
  /v2/account/achievements | 🔑 | [`Gw2Client.WebApi.V2.Account.Achievements`](../api/Gw2Sharp.WebApi.V2.Clients.AccountAchievementsClient.html)
  /v2/account/bank | 🔑📆 | [`Gw2Client.WebApi.V2.Account.Bank`](../api/Gw2Sharp.WebApi.V2.Clients.AccountBankClient.html)
- /v2/account/buildstorage | 🔑 | [`Gw2Client.WebApi.V2.Account.BuildStorage`](../api/Gw2Sharp.WebApi.V2.Clients.AccountBuildStorageClient.html)
+ /v2/account/buildstorage | 🔑📄📚📦 | [`Gw2Client.WebApi.V2.Account.BuildStorage`](../api/Gw2Sharp.WebApi.V2.Clients.AccountBuildStorageClient.html)
  /v2/account/dailycrafting | 🔑 | [`Gw2Client.WebApi.V2.Account.DailyCrafting`](../api/Gw2Sharp.WebApi.V2.Clients.AccountDailyCraftingClient.html)
  /v2/account/dungeons | 🔑 | [`Gw2Client.WebApi.V2.Account.Dungeons`](../api/Gw2Sharp.WebApi.V2.Clients.AccountDungeonsClient.html)
  /v2/account/dyes | 🔑📆 | [`Gw2Client.WebApi.V2.Account.Dyes`](../api/Gw2Sharp.WebApi.V2.Clients.AccountDyesClient.html)
